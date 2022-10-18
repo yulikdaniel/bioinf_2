@@ -1,0 +1,2 @@
+Ссылка на первый блокнот: https://colab.research.google.com/drive/1tSErvl40Goq6Ht0BwYBNi0msTMJna_8K?usp=sharing.
+Ссылка на второй блокнот: https://colab.research.google.com/drive/1lZP55XAlXjpn-YTi8ekf4EGw6u39YUKE?usp=sharing.
